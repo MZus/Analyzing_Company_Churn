@@ -1,1 +1,4 @@
-# Analyzing_Company_Churn
+# Bank Customer Churn Analysis
+## By Mark Zusman
+
+This notebook provides an end-to-end example of performing a big-data analytical workflow using Python, Pandas, Seaborn, and Apache Spark. It highlights the full process of working with a real-world banking dataset to understand customer churn—starting from data loading and preprocessing, to visualization, correlation analysis, and extracting business insights. The notebook demonstrates how large datasets can be explored efficiently in a Spark environment, how churn can be quantified and visualized, and which customer features most strongly contribute to churn behavior. Overall, this project showcases the practical steps and analytical reasoning required to transform raw customer data into meaningful insights that can support data-driven business decisions.
